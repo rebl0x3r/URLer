@@ -1,8 +1,9 @@
 # URLer
-🔗 Generate Phishing URLs 🔗
+ 
+### <h1 align="center" id="heading">🔗 Generate Phishing URLs 🔗</h1>
 
 <p align="center">
-  📄 DOCUMENTATION<br><br>
+  <br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/URLer">
   <img alt="Tool version" src="https://img.shields.io/badge/version-1-brightgreen">
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
