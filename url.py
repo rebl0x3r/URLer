@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 '''
@@ -50,9 +50,9 @@ save_words	= 1		# Save Generated Words Into An Extra File
 uniq_random	= 0		# Remove Duplicates From A Randomized String (1 Means The String Is Shorter Than The Length)
 use_https	= 1		# Use HTTPS (if 0 then http)
 use_trick	= 1		# Use Trick To Trick Google Safebrowsing(Swap First And Last URL Letter)
-''' Integer Settings '''
 remove_quote = 1	# Remove Quotes: ' And " From URLs
 
+''' Integer Settings '''
 bl_count	= 1		# Max Length Of Changing Letter To Number (ex: 1 is p4pal, 2 is p4yp4l) 
 max_count	= 10 	# Max Length Of Random Generated String
 
