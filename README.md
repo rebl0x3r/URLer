@@ -34,7 +34,8 @@
   URLer is a tool for pentesters. The tools has multiple functions to generate phishing URLs, check if a website is deceptive and URLs can be shorten.
   This tool is like terminal input with single commands.(*more about this down below)
   
-  
+  For further details check the documentation:
+  [Documentation](https://github.com/rebl0x3r/URLer/wiki/URLer)
   
 <hr>
 
