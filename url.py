@@ -86,12 +86,12 @@ except:
 		import sys,os
 		if sys.platform == 'linux' or sys.platform == 'darwin':
 			print(f"Installing requirements.... [\033[32mFixer\033[37m]")
-			os.system('python3 -m pip install requirements')
+			os.system('python3 -m pip install requirements.txt')
 			print(f"Installed, please run again the tool [\033[32mFixer\033[37m]")
 
 		if sys.platform == 'win32':
 			print(f"Installing requirements.... [\033[32mFixer\033[37m]")
-			os.system('py -m pip install requirements')
+			os.system('py -m pip install requirements.txt')
 			print(f"Installed, please run again the tool [\033[32mFixer\033[37m]")
 	except:
 		print(f"Unknown Error, Contact @f4c3r100 [\033[32mFixer\033[37m]")
