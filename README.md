@@ -57,7 +57,7 @@
   $ cd URLer
 
   $ chmod +x url.py
-  $ pip3 install -r requirements
+  $ pip3 install -r requirements.txt
    
   $ ./url.py
   ```
